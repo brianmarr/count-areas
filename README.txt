@@ -1,6 +1,6 @@
 
 
-Created by Brian Marr for Abyss Solution's coding interview 
+Created by Brian Marr 
 18/05/2019
 
 ___________
